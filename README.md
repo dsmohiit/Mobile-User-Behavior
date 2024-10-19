@@ -7,7 +7,7 @@
 
 The queries analyze mobile user behavior, examining factors such as app usage time, device models, gender distribution, operating systems, battery drain, and age groups. They provide insights into average usage patterns, correlations between variables, and performance metrics across different user segments and device characteristics.
 
-![Library_project](https://github.com/dsmohiit/Library_Management_Project_SQL/blob/main/WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min.png)
+![Library_project](https://github.com/dsmohiit/Mobile-User-Behavior/blob/main/1682777572781.jpg)
 
 ## Project Structure
 
