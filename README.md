@@ -114,7 +114,7 @@ ORDER BY operating_system, rnk;
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```sh
-   git clone https://github.com/dsmohiit/Library_Management_Project_SQL.git
+   git clone https://github.com/dsmohiit/Mobile-User-Behavior.git
    ```
 2. **Set Up the Database**: Execute the SQL scripts in the `Table Query` and insert the `Mobile User Behaviour- Transformed` file to create and populate the database.
 3. **Run the Queries**: Use the SQL queries in the `Analytical Queries` file to perform the analysis.
